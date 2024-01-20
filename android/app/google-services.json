@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869402912009",
+    "project_id": "persanal--account",
+    "storage_bucket": "persanal--account.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869402912009:android:ef46cfa1f84c546aba9fd8",
+        "android_client_info": {
+          "package_name": "com.example.persanal_account"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJeHqInQtBd3IXF4t9oS3X_4wiPBleNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
